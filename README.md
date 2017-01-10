@@ -1,4 +1,4 @@
-JsonAPIClient
+JsonAPIDeserializeConsole
 =============
 
 Nesta aplicação Deserializamos um JSON e manipulamos os dados dentro de um objeto, depois mostramos de acordo com o que preciso.
