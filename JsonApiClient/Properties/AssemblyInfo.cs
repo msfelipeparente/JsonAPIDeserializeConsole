@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JsonApiClient")]
-[assembly: AssemblyDescription("Simple JSON API Client.")]
+[assembly: AssemblyTitle("JsonAPIDeserializeConsole")]
+[assembly: AssemblyDescription("Simple JSON API Client Console.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Anthony Baker")]
-[assembly: AssemblyProduct("JsonApiClient")]
-[assembly: AssemblyCopyright("Copyright © Anthony Baker 2013")]
+[assembly: AssemblyCompany("Felipe Parente")]
+[assembly: AssemblyProduct("JsonApiClientConsole")]
+[assembly: AssemblyCopyright("Copyright © Felipe Parente 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
